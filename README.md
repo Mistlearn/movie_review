@@ -21,7 +21,7 @@ Movie Review Sentiment Analysis は、映画のレビューから感情を分析
 このプロジェクトをローカルで実行するには、以下の手順に従ってください。
 
 1. リポジトリをクローンする
-git clone https://example.com/movie-review-sentiment-analysis.git
+git clone https://github.com/Mistlearn/movie_review.git
 cd movie-review-sentiment-analysis
 
 
