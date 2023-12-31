@@ -21,7 +21,6 @@ Movie Review Sentiment Analysis は、映画のレビューから感情を分析
 
 このプロジェクトのディレクトリ構造を作成するには、以下のコマンドを実行してください：
 
-```bash
 python setup_project_structure.py
 
 ## インストール方法
