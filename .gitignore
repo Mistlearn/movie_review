@@ -1,0 +1,11 @@
+# データとモデルのディレクトリを無視
+data/processed/*
+models/*
+
+# 特定のファイルタイプを無視
+*.csv
+*.pkl
+*.h5
+
+data/raw/.ipynb_checkpoints/
+data/processed/X_features.npy
